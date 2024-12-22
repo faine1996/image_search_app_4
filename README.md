@@ -50,8 +50,9 @@ To handle millions of images and high traffic, the following architecture enhanc
 
 ### Running Locally
 The entire application is managed through Docker Compose, so no additional manual steps are required for setup. To start all services, run:
-bash
+```bash
 docker-compose up --build
+```
 
 
 This will:
@@ -64,7 +65,8 @@ This will:
 
 ### Example Query
 json
-{
-  "query_text": "a sunset over the mountains",
-  "k": 5
-}
+```bash
+curl --location 'http://localhost:5001/search' \
+--header 'Content-Type: application/json' \
+--data '{"query_text": "a sunset over the mountains", "k": 5}'
+```
