@@ -1,0 +1,939 @@
+2024-12-19 00:31:42,294 - INFO - VectorDatabase initialized.
+2024-12-19 00:31:42,309 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 00:31:42,309 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 00:40:04,623 - INFO - VectorDatabase initialized.
+2024-12-19 00:40:04,623 - WARNING - URL map not found at C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings\../image_downloader/image_url_map.json
+2024-12-19 00:40:04,654 - ERROR - Error loading index: Index or ID map not found. Please build the index first.
+2024-12-19 00:40:53,013 - INFO - VectorDatabase initialized.
+2024-12-19 00:40:53,013 - WARNING - URL map not found at C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings\../image_downloader/image_url_map.json
+2024-12-19 00:40:53,013 - ERROR - Error loading index: Index or ID map not found. Please build the index first.
+2024-12-19 00:53:28,955 - INFO - VectorDatabase initialized.
+2024-12-19 00:53:28,955 - WARNING - URL map not found at C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings\../image_downloader/image_url_map.json
+2024-12-19 00:53:28,955 - ERROR - Error loading index: Index or ID map not found. Please build the index first.
+2024-12-19 01:03:13,530 - INFO - VectorDatabase initialized.
+2024-12-19 01:04:26,278 - INFO - VectorDatabase initialized.
+2024-12-19 01:06:54,091 - INFO - VectorDatabase initialized.
+2024-12-19 01:18:55,618 - INFO - VectorDatabase initialized.
+2024-12-19 01:18:55,626 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 01:18:55,626 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 01:22:10,551 - INFO - VectorDatabase initialized.
+2024-12-19 01:22:12,569 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 01:22:12,569 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 01:22:13,960 - INFO - VectorDatabase initialized.
+2024-12-19 01:22:59,057 - INFO - Index built successfully with 2000 vectors.
+2024-12-19 01:22:59,059 - INFO - Index and ID map loaded successfully.
+2024-12-19 01:22:59,067 - INFO - 127.0.0.1 - - [19/Dec/2024 01:22:59] "GET /test HTTP/1.1" 200 -
+2024-12-19 01:24:24,173 - INFO - 127.0.0.1 - - [19/Dec/2024 01:24:24] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+2024-12-19 01:25:20,343 - INFO - 127.0.0.1 - - [19/Dec/2024 01:25:20] "[31m[1mPOST /search HTTP/1.1[0m" 415 -
+2024-12-19 01:31:26,348 - INFO - VectorDatabase initialized.
+2024-12-19 01:31:28,343 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 01:31:28,343 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 01:31:30,042 - INFO - VectorDatabase initialized.
+2024-12-19 01:32:41,814 - INFO - Index built successfully with 2000 vectors.
+2024-12-19 01:32:41,816 - INFO - Index and ID map loaded successfully.
+2024-12-19 01:32:41,818 - INFO - 127.0.0.1 - - [19/Dec/2024 01:32:41] "GET /test HTTP/1.1" 200 -
+2024-12-19 01:33:56,099 - INFO - VectorDatabase initialized.
+2024-12-19 01:33:58,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 01:33:58,208 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 01:33:59,826 - INFO - VectorDatabase initialized.
+2024-12-19 01:35:44,913 - INFO - Index built successfully with 2000 vectors.
+2024-12-19 01:35:44,915 - INFO - Index and ID map loaded successfully.
+2024-12-19 01:35:44,915 - INFO - 127.0.0.1 - - [19/Dec/2024 01:35:44] "GET /test HTTP/1.1" 200 -
+2024-12-19 01:36:16,209 - INFO - 127.0.0.1 - - [19/Dec/2024 01:36:16] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:04:25,485 - INFO - VectorDatabase initialized.
+2024-12-19 02:04:27,590 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 02:04:27,590 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 02:04:29,106 - INFO - VectorDatabase initialized.
+2024-12-19 02:04:52,033 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 02:04:52,275 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:04:52,275 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:04:52,278 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:04:52,278 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:04:52,278 - INFO - Number of embeddings in index: 2000
+2024-12-19 02:04:52,280 - INFO - 127.0.0.1 - - [19/Dec/2024 02:04:52] "GET /test HTTP/1.1" 200 -
+2024-12-19 02:04:52,949 - INFO - 127.0.0.1 - - [19/Dec/2024 02:04:52] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:12:43,182 - INFO - VectorDatabase initialized.
+2024-12-19 02:12:45,645 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 02:12:45,645 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 02:12:46,824 - INFO - VectorDatabase initialized.
+2024-12-19 02:13:18,664 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 02:13:18,990 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:13:18,990 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:13:18,994 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:13:18,994 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:13:18,994 - INFO - Number of embeddings in index: 2000
+2024-12-19 02:13:19,020 - INFO - 127.0.0.1 - - [19/Dec/2024 02:13:19] "GET /test HTTP/1.1" 200 -
+2024-12-19 02:13:31,857 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 02:13:32,120 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:13:32,120 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:13:32,125 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:13:32,125 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:13:32,125 - INFO - Number of embeddings in index: 2000
+2024-12-19 02:13:32,264 - INFO - 127.0.0.1 - - [19/Dec/2024 02:13:32] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2024-12-19 02:14:29,676 - INFO - VectorDatabase initialized.
+2024-12-19 02:14:31,534 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 02:14:31,534 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 02:14:35,023 - INFO - VectorDatabase initialized.
+2024-12-19 02:14:53,600 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 02:14:53,849 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:14:53,849 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:14:53,853 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:14:53,853 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:14:53,853 - INFO - Number of embeddings in index: 2000
+2024-12-19 02:14:54,004 - INFO - 127.0.0.1 - - [19/Dec/2024 02:14:54] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:19:06,348 - INFO - VectorDatabase initialized.
+2024-12-19 02:19:08,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 02:19:08,082 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 02:19:09,687 - INFO - VectorDatabase initialized.
+2024-12-19 02:19:36,727 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 02:19:37,022 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:19:37,024 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:19:37,028 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:19:37,028 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:19:37,028 - INFO - Number of embeddings in index: 2000
+2024-12-19 02:19:37,141 - INFO - 127.0.0.1 - - [19/Dec/2024 02:19:37] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:20:25,054 - INFO - 127.0.0.1 - - [19/Dec/2024 02:20:25] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:20:37,125 - INFO - 127.0.0.1 - - [19/Dec/2024 02:20:37] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:20:53,550 - INFO - 127.0.0.1 - - [19/Dec/2024 02:20:53] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:21:05,702 - INFO - 127.0.0.1 - - [19/Dec/2024 02:21:05] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:21:15,919 - INFO - 127.0.0.1 - - [19/Dec/2024 02:21:15] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:22:54,594 - INFO - VectorDatabase initialized.
+2024-12-19 02:22:56,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 02:22:56,543 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 02:22:58,842 - INFO - VectorDatabase initialized.
+2024-12-19 02:23:28,729 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 02:23:29,008 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:23:29,008 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:23:29,012 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 02:23:29,012 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 02:23:29,012 - INFO - Number of embeddings in index: 2000
+2024-12-19 02:23:29,166 - INFO - 127.0.0.1 - - [19/Dec/2024 02:23:29] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:23:34,404 - INFO - 127.0.0.1 - - [19/Dec/2024 02:23:34] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:23:54,848 - INFO - 127.0.0.1 - - [19/Dec/2024 02:23:54] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:24:13,818 - INFO - 127.0.0.1 - - [19/Dec/2024 02:24:13] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:24:49,611 - INFO - 127.0.0.1 - - [19/Dec/2024 02:24:49] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:25:22,169 - INFO - 127.0.0.1 - - [19/Dec/2024 02:25:22] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:26:02,217 - INFO - 127.0.0.1 - - [19/Dec/2024 02:26:02] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:26:36,378 - INFO - 127.0.0.1 - - [19/Dec/2024 02:26:36] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:27:02,969 - INFO - 127.0.0.1 - - [19/Dec/2024 02:27:02] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:27:46,431 - INFO - 127.0.0.1 - - [19/Dec/2024 02:27:46] "POST /search HTTP/1.1" 200 -
+2024-12-19 02:28:38,860 - INFO - 127.0.0.1 - - [19/Dec/2024 02:28:38] "POST /search HTTP/1.1" 200 -
+2024-12-19 13:09:35,190 - INFO - VectorDatabase initialized.
+2024-12-19 13:09:37,243 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.6:5000
+2024-12-19 13:09:37,244 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 13:09:38,494 - INFO - VectorDatabase initialized.
+2024-12-19 13:10:48,186 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 13:10:49,389 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 13:10:49,389 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 13:10:49,394 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 13:10:49,395 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 13:10:49,395 - INFO - Number of embeddings in index: 2000
+2024-12-19 13:10:49,575 - INFO - 127.0.0.1 - - [19/Dec/2024 13:10:49] "POST /search HTTP/1.1" 200 -
+2024-12-19 13:11:18,422 - INFO - 127.0.0.1 - - [19/Dec/2024 13:11:18] "POST /search HTTP/1.1" 200 -
+2024-12-19 13:12:34,830 - INFO - 127.0.0.1 - - [19/Dec/2024 13:12:34] "POST /search HTTP/1.1" 200 -
+2024-12-19 13:17:05,654 - INFO - 127.0.0.1 - - [19/Dec/2024 13:17:05] "POST /search HTTP/1.1" 200 -
+2024-12-19 13:18:40,370 - INFO - 127.0.0.1 - - [19/Dec/2024 13:18:40] "POST /search HTTP/1.1" 200 -
+2024-12-19 14:53:26,907 - INFO - VectorDatabase initialized.
+2024-12-19 14:53:30,236 - INFO - VectorDatabase initialized.
+2024-12-19 14:53:44,902 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 14:53:45,148 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 14:53:45,148 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 14:53:45,152 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 14:53:45,152 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 14:53:45,152 - INFO - Number of embeddings in index: 2000
+2024-12-19 14:53:45,185 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 14:53:45,185 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 14:53:45,192 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 14:53:47,733 - INFO - VectorDatabase initialized.
+2024-12-19 14:53:51,564 - INFO - VectorDatabase initialized.
+2024-12-19 14:54:03,726 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 14:54:04,192 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 14:54:04,192 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 14:54:04,198 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 14:54:04,198 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 14:54:04,198 - INFO - Number of embeddings in index: 2000
+2024-12-19 14:54:04,213 - WARNING -  * Debugger is active!
+2024-12-19 14:54:04,218 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 14:54:50,995 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\__init__.py', reloading
+2024-12-19 14:54:51,609 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\shared\\utils.py', reloading
+2024-12-19 14:54:51,611 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\__init__.py', reloading
+2024-12-19 14:54:51,614 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\types.py', reloading
+2024-12-19 14:54:51,618 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\_tensor.py', reloading
+2024-12-19 14:54:51,618 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\autograd\\__init__.py', reloading
+2024-12-19 14:54:51,619 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\__future__.py', reloading
+2024-12-19 14:54:51,619 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\nn\\__init__.py', reloading
+2024-12-19 14:54:51,619 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\utils\\__init__.py', reloading
+2024-12-19 14:54:51,620 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\_prims_common\\__init__.py', reloading
+2024-12-19 14:54:51,620 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2024-12-19 14:54:51,620 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\app.py', reloading
+2024-12-19 14:54:51,621 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\globals.py', reloading
+2024-12-19 14:54:51,621 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2024-12-19 14:54:51,621 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2024-12-19 14:54:51,622 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2024-12-19 14:54:51,622 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\typing.py', reloading
+2024-12-19 14:54:51,623 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2024-12-19 14:54:51,624 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2024-12-19 14:54:51,624 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2024-12-19 14:54:51,624 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2024-12-19 14:54:51,625 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\cuda\\memory.py', reloading
+2024-12-19 14:54:51,625 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\cuda\\random.py', reloading
+2024-12-19 14:54:51,625 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\logging.py', reloading
+2024-12-19 14:54:51,626 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_sentencepiece_objects.py', reloading
+2024-12-19 14:54:51,626 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_tokenizers_objects.py', reloading
+2024-12-19 14:54:51,626 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_tensorflow_text_objects.py', reloading
+2024-12-19 14:54:51,627 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_keras_nlp_objects.py', reloading
+2024-12-19 14:54:51,627 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_vision_objects.py', reloading
+2024-12-19 14:54:51,627 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_torchvision_objects.py', reloading
+2024-12-19 14:54:51,628 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_pt_objects.py', reloading
+2024-12-19 14:54:51,628 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_tf_objects.py', reloading
+2024-12-19 14:54:51,628 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_essentia_and_librosa_and_pretty_midi_and_scipy_and_torch_objects.py', reloading
+2024-12-19 14:54:51,628 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_torchaudio_objects.py', reloading
+2024-12-19 14:54:51,629 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\dummy_flax_objects.py', reloading
+2024-12-19 14:54:51,629 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\configuration_utils.py', reloading
+2024-12-19 14:54:51,630 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\generation\\__init__.py', reloading
+2024-12-19 14:54:51,630 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\integrations\\__init__.py', reloading
+2024-12-19 14:54:51,630 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\models\\clip\\__init__.py', reloading
+2024-12-19 14:54:51,631 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\processing_utils.py', reloading
+2024-12-19 14:54:51,631 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\tokenization_utils_base.py', reloading
+2024-12-19 14:54:51,631 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\image_utils.py', reloading
+2024-12-19 14:54:51,632 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\modeling_utils.py', reloading
+2024-12-19 14:54:51,632 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\models\\clip\\processing_clip.py', reloading
+2024-12-19 14:54:51,632 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\models\\clip\\modeling_clip.py', reloading
+2024-12-19 14:54:51,633 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\utils\\checkpoint.py', reloading
+2024-12-19 14:54:51,633 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\packaging\\__init__.py', reloading
+2024-12-19 14:54:51,633 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\packaging\\version.py', reloading
+2024-12-19 14:54:51,634 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\hub.py', reloading
+2024-12-19 14:54:51,634 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\import_utils.py', reloading
+2024-12-19 14:54:51,634 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\nn\\modules\\__init__.py', reloading
+2024-12-19 14:54:51,635 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py', reloading
+2024-12-19 14:54:51,635 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\doc.py', reloading
+2024-12-19 14:54:51,635 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\utils\\generic.py', reloading
+2024-12-19 14:54:51,636 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\huggingface_hub\\utils\\__init__.py', reloading
+2024-12-19 14:54:51,636 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\huggingface_hub\\utils\\tqdm.py', reloading
+2024-12-19 14:54:51,636 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\generation\\utils.py', reloading
+2024-12-19 14:54:51,636 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\transformers\\integrations\\peft.py', reloading
+2024-12-19 14:54:51,638 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\faiss\\__init__.py', reloading
+2024-12-19 14:54:51,638 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\utils\\_pytree.py', reloading
+2024-12-19 14:54:51,638 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\autograd\\grad_mode.py', reloading
+2024-12-19 14:54:51,639 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\torch\\utils\\_contextlib.py', reloading
+2024-12-19 14:54:51,639 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2024-12-19 14:54:51,639 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+2024-12-19 14:54:51,640 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2024-12-19 14:54:51,640 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py', reloading
+2024-12-19 14:54:51,640 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+2024-12-19 14:54:51,641 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2024-12-19 14:54:51,641 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2024-12-19 14:54:51,641 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2024-12-19 14:54:51,641 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-12-19 14:54:51,642 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2024-12-19 14:54:51,642 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\faiss\\loader.py', reloading
+2024-12-19 14:54:51,642 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\faiss\\gpu_wrappers.py', reloading
+2024-12-19 14:54:51,642 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\faiss\\array_conversions.py', reloading
+2024-12-19 14:54:51,642 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\faiss\\swigfaiss_avx2.py', reloading
+2024-12-19 14:54:51,643 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\faiss\\swigfaiss.py', reloading
+2024-12-19 14:54:52,228 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 14:54:54,919 - INFO - VectorDatabase initialized.
+2024-12-19 14:54:58,379 - INFO - VectorDatabase initialized.
+2024-12-19 14:55:11,644 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 14:55:11,935 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 14:55:11,935 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 14:55:11,939 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 14:55:11,939 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 14:55:11,939 - INFO - Number of embeddings in index: 2000
+2024-12-19 14:55:11,949 - WARNING -  * Debugger is active!
+2024-12-19 14:55:11,951 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 14:55:15,422 - INFO - 127.0.0.1 - - [19/Dec/2024 14:55:15] "GET /test HTTP/1.1" 200 -
+2024-12-19 15:03:38,483 - INFO - VectorDatabase initialized.
+2024-12-19 15:03:38,504 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 15:03:38,504 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 15:03:38,510 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 15:03:40,977 - INFO - VectorDatabase initialized.
+2024-12-19 15:03:40,986 - WARNING -  * Debugger is active!
+2024-12-19 15:03:40,988 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 15:04:44,654 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\__init__.py', reloading
+2024-12-19 15:04:44,668 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\config.py', reloading
+2024-12-19 15:04:44,681 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\delta_generator_singletons.py', reloading
+2024-12-19 15:04:44,699 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\alert.py', reloading
+2024-12-19 15:04:44,702 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\audio_input.py', reloading
+2024-12-19 15:04:44,706 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\balloons.py', reloading
+2024-12-19 15:04:44,707 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\bokeh_chart.py', reloading
+2024-12-19 15:04:44,709 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\button.py', reloading
+2024-12-19 15:04:44,718 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\button_group.py', reloading
+2024-12-19 15:04:44,725 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\camera_input.py', reloading
+2024-12-19 15:04:44,729 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\chat.py', reloading
+2024-12-19 15:04:44,734 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\checkbox.py', reloading
+2024-12-19 15:04:44,736 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\code.py', reloading
+2024-12-19 15:04:44,737 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\color_picker.py', reloading
+2024-12-19 15:04:44,740 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
+2024-12-19 15:04:44,741 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\exception.py', reloading
+2024-12-19 15:04:44,743 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\file_uploader.py', reloading
+2024-12-19 15:04:44,746 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\form.py', reloading
+2024-12-19 15:04:44,749 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\graphviz_chart.py', reloading
+2024-12-19 15:04:44,754 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\doc_string.py', reloading
+2024-12-19 15:04:44,762 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\html.py', reloading
+2024-12-19 15:04:44,763 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\iframe.py', reloading
+2024-12-19 15:04:44,764 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\image.py', reloading
+2024-12-19 15:04:44,767 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\layouts.py', reloading
+2024-12-19 15:04:44,769 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2024-12-19 15:04:44,777 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\map.py', reloading
+2024-12-19 15:04:44,785 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\media.py', reloading
+2024-12-19 15:04:44,791 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\metric.py', reloading
+2024-12-19 15:04:44,794 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\multiselect.py', reloading
+2024-12-19 15:04:44,796 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\number_input.py', reloading
+2024-12-19 15:04:44,802 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\plotly_chart.py', reloading
+2024-12-19 15:04:44,810 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\progress.py', reloading
+2024-12-19 15:04:44,812 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\deck_gl_json_chart.py', reloading
+2024-12-19 15:04:44,817 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\pyplot.py', reloading
+2024-12-19 15:04:44,819 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\radio.py', reloading
+2024-12-19 15:04:44,826 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\selectbox.py', reloading
+2024-12-19 15:04:44,830 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\select_slider.py', reloading
+2024-12-19 15:04:44,833 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\slider.py', reloading
+2024-12-19 15:04:44,841 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\snow.py', reloading
+2024-12-19 15:04:44,842 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\json.py', reloading
+2024-12-19 15:04:44,844 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\text.py', reloading
+2024-12-19 15:04:44,846 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\text_widgets.py', reloading
+2024-12-19 15:04:44,854 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\time_widgets.py', reloading
+2024-12-19 15:04:44,861 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\toast.py', reloading
+2024-12-19 15:04:44,862 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\write.py', reloading
+2024-12-19 15:04:44,866 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\arrow.py', reloading
+2024-12-19 15:04:44,873 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\vega_charts.py', reloading
+2024-12-19 15:04:44,881 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\data_editor.py', reloading
+2024-12-19 15:04:44,888 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\lib\\mutable_status_container.py', reloading
+2024-12-19 15:04:44,889 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\lib\\dialog.py', reloading
+2024-12-19 15:04:44,908 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\cursor.py', reloading
+2024-12-19 15:04:44,915 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\logger.py', reloading
+2024-12-19 15:04:44,924 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\type_util.py', reloading
+2024-12-19 15:04:44,975 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\lib\\utils.py', reloading
+2024-12-19 15:04:44,977 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\runtime\\state\\__init__.py', reloading
+2024-12-19 15:04:44,979 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\runtime\\state\\common.py', reloading
+2024-12-19 15:04:45,406 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 15:04:48,060 - INFO - VectorDatabase initialized.
+2024-12-19 15:04:48,069 - WARNING -  * Debugger is active!
+2024-12-19 15:04:48,071 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 15:28:09,888 - INFO - VectorDatabase initialized.
+2024-12-19 15:28:09,908 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 15:28:09,908 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 15:28:09,916 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 15:28:12,426 - INFO - VectorDatabase initialized.
+2024-12-19 15:28:12,435 - WARNING -  * Debugger is active!
+2024-12-19 15:28:12,437 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 15:30:26,973 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\runtime\\state\\session_state_proxy.py', reloading
+2024-12-19 15:30:27,219 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 15:30:27,219 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 15:30:27,221 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 15:30:28,003 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 15:30:30,707 - INFO - VectorDatabase initialized.
+2024-12-19 15:30:30,716 - WARNING -  * Debugger is active!
+2024-12-19 15:30:30,719 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:26:22,404 - INFO - VectorDatabase initialized.
+2024-12-19 16:26:25,902 - INFO - VectorDatabase initialized.
+2024-12-19 16:26:40,345 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:26:40,663 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:26:40,663 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:26:40,668 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:26:40,668 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:26:40,668 - INFO - Number of embeddings in index: 2000
+2024-12-19 16:26:40,680 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 16:26:40,680 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 16:26:40,685 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:26:43,304 - INFO - VectorDatabase initialized.
+2024-12-19 16:26:46,942 - INFO - VectorDatabase initialized.
+2024-12-19 16:27:05,440 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:27:05,664 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:27:05,664 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:27:05,668 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:27:05,668 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:27:05,668 - INFO - Number of embeddings in index: 2000
+2024-12-19 16:27:05,676 - WARNING -  * Debugger is active!
+2024-12-19 16:27:05,681 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:27:19,871 - INFO - 127.0.0.1 - - [19/Dec/2024 16:27:19] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+2024-12-19 16:27:25,196 - INFO - 127.0.0.1 - - [19/Dec/2024 16:27:25] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:27:58,020 - INFO - 127.0.0.1 - - [19/Dec/2024 16:27:58] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:28:10,902 - INFO - 127.0.0.1 - - [19/Dec/2024 16:28:10] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:28:34,630 - INFO - 127.0.0.1 - - [19/Dec/2024 16:28:34] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:28:36,707 - INFO - 127.0.0.1 - - [19/Dec/2024 16:28:36] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:29:54,769 - INFO - 127.0.0.1 - - [19/Dec/2024 16:29:54] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:30:02,128 - INFO - 127.0.0.1 - - [19/Dec/2024 16:30:02] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:30:04,206 - INFO - 127.0.0.1 - - [19/Dec/2024 16:30:04] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:32:46,869 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\aiohttp\\__init__.py', reloading
+2024-12-19 16:32:47,524 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:32:50,785 - INFO - VectorDatabase initialized.
+2024-12-19 16:32:54,405 - INFO - VectorDatabase initialized.
+2024-12-19 16:33:10,686 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:33:10,931 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:33:10,932 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:33:10,935 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:33:10,935 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:33:10,935 - INFO - Number of embeddings in index: 2000
+2024-12-19 16:33:10,944 - WARNING -  * Debugger is active!
+2024-12-19 16:33:10,949 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:34:51,534 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\image_downloader\\image_downloader.py', reloading
+2024-12-19 16:34:51,535 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\image_downloader\\image_downloader.py', reloading
+2024-12-19 16:34:51,539 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\image_downloader\\image_downloader.py', reloading
+2024-12-19 16:34:52,742 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:34:55,692 - INFO - VectorDatabase initialized.
+2024-12-19 16:34:59,305 - INFO - VectorDatabase initialized.
+2024-12-19 16:40:50,391 - INFO - VectorDatabase initialized.
+2024-12-19 16:40:54,028 - INFO - VectorDatabase initialized.
+2024-12-19 16:41:31,275 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:41:31,603 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:41:31,603 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:41:31,607 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:41:31,607 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:41:31,607 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:41:31,623 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 16:41:31,623 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 16:41:31,629 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:41:34,354 - INFO - VectorDatabase initialized.
+2024-12-19 16:41:37,815 - INFO - VectorDatabase initialized.
+2024-12-19 16:41:51,005 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:41:51,547 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:41:51,547 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:41:51,552 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:41:51,552 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:41:51,552 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:41:51,568 - WARNING -  * Debugger is active!
+2024-12-19 16:41:51,578 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:42:18,157 - INFO - 127.0.0.1 - - [19/Dec/2024 16:42:18] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:42:29,674 - INFO - 127.0.0.1 - - [19/Dec/2024 16:42:29] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:43:04,505 - INFO - 127.0.0.1 - - [19/Dec/2024 16:43:04] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:43:06,620 - INFO - 127.0.0.1 - - [19/Dec/2024 16:43:06] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:44:18,275 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2024-12-19 16:44:18,278 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+2024-12-19 16:44:18,369 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2024-12-19 16:44:19,567 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:44:22,373 - INFO - VectorDatabase initialized.
+2024-12-19 16:44:26,434 - INFO - VectorDatabase initialized.
+2024-12-19 16:44:44,577 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:44:44,882 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:44:44,882 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:44:44,886 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:44:44,886 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:44:44,886 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:44:44,896 - WARNING -  * Debugger is active!
+2024-12-19 16:44:44,902 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:44:47,411 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\requests\\models.py', reloading
+2024-12-19 16:44:48,412 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:44:51,068 - INFO - VectorDatabase initialized.
+2024-12-19 16:44:54,735 - INFO - VectorDatabase initialized.
+2024-12-19 16:45:10,881 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:45:11,181 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:45:11,181 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:45:11,185 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:45:11,186 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:45:11,186 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:45:11,195 - WARNING -  * Debugger is active!
+2024-12-19 16:45:11,199 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:45:12,945 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 16:45:12,946 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 16:45:13,657 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:45:16,474 - INFO - VectorDatabase initialized.
+2024-12-19 16:45:20,267 - INFO - VectorDatabase initialized.
+2024-12-19 16:45:34,505 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:45:34,806 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:45:34,806 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:45:34,809 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:45:34,809 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:45:34,809 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:45:34,819 - WARNING -  * Debugger is active!
+2024-12-19 16:45:34,824 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:46:33,226 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 16:46:34,616 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:46:37,392 - INFO - VectorDatabase initialized.
+2024-12-19 16:46:41,003 - INFO - VectorDatabase initialized.
+2024-12-19 16:46:57,804 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:46:58,091 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:46:58,092 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:46:58,095 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:46:58,095 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:46:58,096 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:46:58,105 - WARNING -  * Debugger is active!
+2024-12-19 16:46:58,109 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:47:43,854 - ERROR - 10.100.102.6 - - [19/Dec/2024 16:47:43] code 400, message Bad request version ("{ü÷å.÷°\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À")
+2024-12-19 16:47:43,855 - INFO - 10.100.102.6 - - [19/Dec/2024 16:47:43] "[31m[1m\x16\x03\x01\x01©\x01\x00\x01¥\x03\x03\x07ã\x9fik\x13å\x01ø\x1fëé3.j8\x0dzÜ°¡\x07Y¶ô¢\x13§·)Aâ \x88¾Àt\x11âÎ3Hâ\x82\x89Ë\x13\x99f\x994Ð=\x8bèPU\x1d{ü÷å.÷°\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À[0m" 400 -
+2024-12-19 16:47:43,889 - ERROR - 10.100.102.6 - - [19/Dec/2024 16:47:43] code 400, message Bad request version ("hÌC?lH\x90q\x88Ê¡öò#\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À")
+2024-12-19 16:47:43,889 - INFO - 10.100.102.6 - - [19/Dec/2024 16:47:43] "[31m[1m\x16\x03\x01\x01©\x01\x00\x01¥\x03\x03\x0eZ7\x04[ãæ\x0fr3\x0b\x00G7lÛÜ}?\x9aÖ\\eÙ\x1e\x0b»Y\x8bG\x0fF óÈøA^ |j»ÁÖ¾\x8fv\x1dÅ\x86 hÌC?lH\x90q\x88Ê¡öò#\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À[0m" 400 -
+2024-12-19 16:49:17,129 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\main.py', reloading
+2024-12-19 16:49:17,130 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\main.py', reloading
+2024-12-19 16:49:17,132 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\main.py', reloading
+2024-12-19 16:49:18,524 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:49:21,279 - INFO - VectorDatabase initialized.
+2024-12-19 16:49:24,948 - INFO - VectorDatabase initialized.
+2024-12-19 16:49:42,989 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:49:43,322 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:49:43,322 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:49:43,327 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:49:43,327 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:49:43,327 - INFO - Number of embeddings in index: 2400
+2024-12-19 16:49:43,337 - WARNING -  * Debugger is active!
+2024-12-19 16:49:43,343 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:51:33,873 - INFO - VectorDatabase initialized.
+2024-12-19 16:51:37,378 - INFO - VectorDatabase initialized.
+2024-12-19 16:52:24,257 - INFO - VectorDatabase initialized.
+2024-12-19 16:52:24,273 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 16:52:24,273 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 16:52:24,281 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:52:26,885 - INFO - VectorDatabase initialized.
+2024-12-19 16:52:26,894 - WARNING -  * Debugger is active!
+2024-12-19 16:52:26,899 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:53:00,402 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:53:00,455 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:53:00,455 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:53:00,456 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:53:00,456 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:53:00,457 - INFO - Number of embeddings in index: 400
+2024-12-19 16:53:02,298 - INFO - 127.0.0.1 - - [19/Dec/2024 16:53:02] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:53:04,183 - INFO - VectorDatabase initialized.
+2024-12-19 16:54:45,023 - INFO - VectorDatabase initialized.
+2024-12-19 16:54:45,040 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 16:54:45,040 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 16:54:45,046 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:54:47,785 - INFO - VectorDatabase initialized.
+2024-12-19 16:54:47,795 - WARNING -  * Debugger is active!
+2024-12-19 16:54:47,800 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:55:10,499 - INFO - Building FAISS index from embeddings in: C:\ExternalProjects\image_search_app_chatgpt\vector_db\../embedding_generator/embeddings
+2024-12-19 16:55:10,551 - INFO - FAISS index built and saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:55:10,551 - INFO - ID map saved to: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:55:10,552 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:55:10,552 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:55:10,552 - INFO - Number of embeddings in index: 400
+2024-12-19 16:55:12,314 - INFO - 127.0.0.1 - - [19/Dec/2024 16:55:12] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:55:14,072 - INFO - VectorDatabase initialized.
+2024-12-19 16:55:19,439 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\click\\__init__.py', reloading
+2024-12-19 16:55:19,445 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+2024-12-19 16:55:19,464 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading
+2024-12-19 16:55:19,470 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\exceptions.py', reloading
+2024-12-19 16:55:19,477 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\routing\\__init__.py', reloading
+2024-12-19 16:55:19,479 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\routing\\exceptions.py', reloading
+2024-12-19 16:55:19,484 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+2024-12-19 16:55:19,491 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\routing\\rules.py', reloading
+2024-12-19 16:55:19,529 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2024-12-19 16:55:19,545 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-12-19 16:55:19,554 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\ctx.py', reloading
+2024-12-19 16:55:19,560 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\helpers.py', reloading
+2024-12-19 16:55:19,565 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\sessions.py', reloading
+2024-12-19 16:55:19,570 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\json\\tag.py', reloading
+2024-12-19 16:55:19,574 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\signals.py', reloading
+2024-12-19 16:55:19,575 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-12-19 16:55:19,577 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2024-12-19 16:55:19,579 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-12-19 16:55:19,592 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\testing.py', reloading
+2024-12-19 16:55:19,597 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\werkzeug\\test.py', reloading
+2024-12-19 16:55:19,610 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\click\\testing.py', reloading
+2024-12-19 16:55:19,629 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\cli.py', reloading
+2024-12-19 16:55:19,644 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\click\\core.py', reloading
+2024-12-19 16:55:19,675 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\click\\decorators.py', reloading
+2024-12-19 16:55:19,686 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\flask\\config.py', reloading
+2024-12-19 16:55:19,727 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\defaults.py', reloading
+2024-12-19 16:55:19,728 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\utils.py', reloading
+2024-12-19 16:55:19,735 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\tests.py', reloading
+2024-12-19 16:55:19,756 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\filters.py', reloading
+2024-12-19 16:55:19,774 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\runtime.py', reloading
+2024-12-19 16:55:19,791 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+2024-12-19 16:55:19,800 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\async_utils.py', reloading
+2024-12-19 16:55:19,814 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\jinja2\\nodes.py', reloading
+2024-12-19 16:55:20,404 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:55:23,185 - INFO - VectorDatabase initialized.
+2024-12-19 16:55:23,195 - WARNING -  * Debugger is active!
+2024-12-19 16:55:23,199 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:55:56,381 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\api.py', reloading
+2024-12-19 16:55:56,385 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\api.py', reloading
+2024-12-19 16:55:57,525 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:56:00,524 - INFO - VectorDatabase initialized.
+2024-12-19 16:56:00,534 - WARNING -  * Debugger is active!
+2024-12-19 16:56:00,538 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:56:07,143 - INFO - VectorDatabase initialized.
+2024-12-19 16:56:07,159 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 16:56:07,160 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 16:56:07,165 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:56:09,818 - INFO - VectorDatabase initialized.
+2024-12-19 16:56:09,829 - WARNING -  * Debugger is active!
+2024-12-19 16:56:09,834 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:56:13,806 - INFO - 127.0.0.1 - - [19/Dec/2024 16:56:13] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2024-12-19 16:56:15,798 - INFO - VectorDatabase initialized.
+2024-12-19 16:59:15,002 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\api.py', reloading
+2024-12-19 16:59:15,005 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\api.py', reloading
+2024-12-19 16:59:16,331 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:59:19,253 - INFO - VectorDatabase initialized.
+2024-12-19 16:59:19,254 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:59:19,254 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:59:19,254 - INFO - Number of embeddings in index: 400
+2024-12-19 16:59:19,263 - WARNING -  * Debugger is active!
+2024-12-19 16:59:19,268 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:59:26,525 - INFO - VectorDatabase initialized.
+2024-12-19 16:59:26,526 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:59:26,527 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:59:26,527 - INFO - Number of embeddings in index: 400
+2024-12-19 16:59:26,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 16:59:26,543 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 16:59:26,549 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 16:59:29,434 - INFO - VectorDatabase initialized.
+2024-12-19 16:59:29,434 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:59:29,434 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:59:29,434 - INFO - Number of embeddings in index: 400
+2024-12-19 16:59:29,448 - WARNING -  * Debugger is active!
+2024-12-19 16:59:29,453 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 16:59:31,248 - INFO - 127.0.0.1 - - [19/Dec/2024 16:59:31] "POST /search HTTP/1.1" 200 -
+2024-12-19 16:59:32,970 - INFO - VectorDatabase initialized.
+2024-12-19 16:59:32,971 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 16:59:32,972 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 16:59:32,972 - INFO - Number of embeddings in index: 400
+2024-12-19 16:59:50,710 - INFO - 127.0.0.1 - - [19/Dec/2024 16:59:50] "GET /test HTTP/1.1" 200 -
+2024-12-19 16:59:52,790 - INFO - 127.0.0.1 - - [19/Dec/2024 16:59:52] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:03:34,610 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:03:34,610 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:03:35,465 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:03:38,243 - INFO - VectorDatabase initialized.
+2024-12-19 17:03:38,245 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:03:38,245 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:03:38,245 - INFO - Number of embeddings in index: 400
+2024-12-19 17:03:38,254 - WARNING -  * Debugger is active!
+2024-12-19 17:03:38,259 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:06:55,848 - INFO - VectorDatabase initialized.
+2024-12-19 17:06:55,849 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:06:55,849 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:06:55,849 - INFO - Number of embeddings in index: 400
+2024-12-19 17:06:55,865 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 17:06:55,865 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 17:06:55,872 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:06:58,723 - INFO - VectorDatabase initialized.
+2024-12-19 17:06:58,723 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:06:58,723 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:06:58,723 - INFO - Number of embeddings in index: 400
+2024-12-19 17:06:58,733 - WARNING -  * Debugger is active!
+2024-12-19 17:06:58,739 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:07:02,883 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\__init__.py', reloading
+2024-12-19 17:07:02,914 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\config.py', reloading
+2024-12-19 17:07:02,934 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\delta_generator_singletons.py', reloading
+2024-12-19 17:07:02,992 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\alert.py', reloading
+2024-12-19 17:07:03,000 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\audio_input.py', reloading
+2024-12-19 17:07:03,012 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\balloons.py', reloading
+2024-12-19 17:07:03,014 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\bokeh_chart.py', reloading
+2024-12-19 17:07:03,023 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\button.py', reloading
+2024-12-19 17:07:03,039 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\button_group.py', reloading
+2024-12-19 17:07:03,053 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\camera_input.py', reloading
+2024-12-19 17:07:03,063 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\chat.py', reloading
+2024-12-19 17:07:03,069 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\checkbox.py', reloading
+2024-12-19 17:07:03,073 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\code.py', reloading
+2024-12-19 17:07:03,076 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\color_picker.py', reloading
+2024-12-19 17:07:03,081 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
+2024-12-19 17:07:03,083 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\exception.py', reloading
+2024-12-19 17:07:03,088 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\file_uploader.py', reloading
+2024-12-19 17:07:03,093 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\form.py', reloading
+2024-12-19 17:07:03,098 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\graphviz_chart.py', reloading
+2024-12-19 17:07:03,109 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\doc_string.py', reloading
+2024-12-19 17:07:03,120 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\html.py', reloading
+2024-12-19 17:07:03,122 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\iframe.py', reloading
+2024-12-19 17:07:03,124 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\image.py', reloading
+2024-12-19 17:07:03,127 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\layouts.py', reloading
+2024-12-19 17:07:03,133 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2024-12-19 17:07:03,137 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\map.py', reloading
+2024-12-19 17:07:03,147 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\media.py', reloading
+2024-12-19 17:07:03,160 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\metric.py', reloading
+2024-12-19 17:07:03,167 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\multiselect.py', reloading
+2024-12-19 17:07:03,173 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\number_input.py', reloading
+2024-12-19 17:07:03,178 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\plotly_chart.py', reloading
+2024-12-19 17:07:03,195 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\progress.py', reloading
+2024-12-19 17:07:03,201 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\deck_gl_json_chart.py', reloading
+2024-12-19 17:07:03,208 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\pyplot.py', reloading
+2024-12-19 17:07:03,211 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\radio.py', reloading
+2024-12-19 17:07:03,218 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\selectbox.py', reloading
+2024-12-19 17:07:03,227 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\select_slider.py', reloading
+2024-12-19 17:07:03,231 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\slider.py', reloading
+2024-12-19 17:07:03,238 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\snow.py', reloading
+2024-12-19 17:07:03,240 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\json.py', reloading
+2024-12-19 17:07:03,241 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\text.py', reloading
+2024-12-19 17:07:03,242 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\text_widgets.py', reloading
+2024-12-19 17:07:03,247 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\time_widgets.py', reloading
+2024-12-19 17:07:03,258 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\toast.py', reloading
+2024-12-19 17:07:03,259 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\write.py', reloading
+2024-12-19 17:07:03,265 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\arrow.py', reloading
+2024-12-19 17:07:03,282 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\vega_charts.py', reloading
+2024-12-19 17:07:03,292 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\widgets\\data_editor.py', reloading
+2024-12-19 17:07:03,304 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\lib\\mutable_status_container.py', reloading
+2024-12-19 17:07:03,310 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\lib\\dialog.py', reloading
+2024-12-19 17:07:03,328 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\cursor.py', reloading
+2024-12-19 17:07:03,339 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\logger.py', reloading
+2024-12-19 17:07:03,343 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\type_util.py', reloading
+2024-12-19 17:07:03,386 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\elements\\lib\\utils.py', reloading
+2024-12-19 17:07:03,391 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\runtime\\state\\__init__.py', reloading
+2024-12-19 17:07:03,395 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\streamlit\\runtime\\state\\common.py', reloading
+2024-12-19 17:07:04,337 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:07:07,449 - INFO - VectorDatabase initialized.
+2024-12-19 17:07:07,450 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:07:07,451 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:07:07,451 - INFO - Number of embeddings in index: 400
+2024-12-19 17:07:07,461 - WARNING -  * Debugger is active!
+2024-12-19 17:07:07,466 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:07:15,112 - INFO - 127.0.0.1 - - [19/Dec/2024 17:07:15] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:07:16,898 - INFO - VectorDatabase initialized.
+2024-12-19 17:07:16,899 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:07:16,899 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:07:16,899 - INFO - Number of embeddings in index: 400
+2024-12-19 17:07:46,067 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\venv\\Lib\\site-packages\\numpy\\__init__.py', reloading
+2024-12-19 17:07:46,982 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:07:49,908 - INFO - VectorDatabase initialized.
+2024-12-19 17:07:49,909 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:07:49,909 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:07:49,909 - INFO - Number of embeddings in index: 400
+2024-12-19 17:07:49,920 - WARNING -  * Debugger is active!
+2024-12-19 17:07:49,927 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:12:59,755 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\embedding_generator\\embedding_generator.py', reloading
+2024-12-19 17:12:59,758 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\embedding_generator\\embedding_generator.py', reloading
+2024-12-19 17:12:59,758 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\embedding_generator\\embedding_generator.py', reloading
+2024-12-19 17:13:01,092 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:13:03,953 - INFO - VectorDatabase initialized.
+2024-12-19 17:13:03,955 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:13:03,955 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:13:03,955 - INFO - Number of embeddings in index: 400
+2024-12-19 17:13:03,966 - WARNING -  * Debugger is active!
+2024-12-19 17:13:03,972 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:14:20,792 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:14:20,795 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:14:22,098 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:14:24,769 - INFO - VectorDatabase initialized.
+2024-12-19 17:14:24,770 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:14:24,770 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:14:24,770 - INFO - Number of embeddings in index: 400
+2024-12-19 17:14:24,779 - WARNING -  * Debugger is active!
+2024-12-19 17:14:24,783 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:14:45,554 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:14:45,554 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:14:46,659 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:14:49,620 - INFO - VectorDatabase initialized.
+2024-12-19 17:14:49,621 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:14:49,621 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:14:49,621 - INFO - Number of embeddings in index: 400
+2024-12-19 17:14:49,630 - WARNING -  * Debugger is active!
+2024-12-19 17:14:49,634 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:14:58,030 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\image_downloader\\image_downloader.py', reloading
+2024-12-19 17:14:58,034 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\image_downloader\\image_downloader.py', reloading
+2024-12-19 17:14:59,314 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:15:02,253 - INFO - VectorDatabase initialized.
+2024-12-19 17:15:02,254 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:15:02,254 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:15:02,254 - INFO - Number of embeddings in index: 400
+2024-12-19 17:15:02,262 - WARNING -  * Debugger is active!
+2024-12-19 17:15:02,268 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:17:17,632 - INFO - VectorDatabase initialized.
+2024-12-19 17:17:17,634 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:17:17,634 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:17:17,634 - INFO - Number of embeddings in index: 400
+2024-12-19 17:17:17,650 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 17:17:17,650 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 17:17:17,656 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:19:16,175 - INFO - VectorDatabase initialized.
+2024-12-19 17:19:16,176 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:19:16,176 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:19:16,176 - INFO - Number of embeddings in index: 400
+2024-12-19 17:19:16,192 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 17:19:16,192 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 17:19:16,198 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:19:19,202 - INFO - VectorDatabase initialized.
+2024-12-19 17:19:19,202 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:19:19,202 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:19:19,202 - INFO - Number of embeddings in index: 400
+2024-12-19 17:19:19,214 - WARNING -  * Debugger is active!
+2024-12-19 17:19:19,218 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:19:22,058 - INFO - 127.0.0.1 - - [19/Dec/2024 17:19:22] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:19:23,815 - INFO - VectorDatabase initialized.
+2024-12-19 17:19:23,817 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:19:23,817 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:19:23,817 - INFO - Number of embeddings in index: 400
+2024-12-19 17:19:25,314 - INFO - 127.0.0.1 - - [19/Dec/2024 17:19:25] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:19:25,851 - INFO - 127.0.0.1 - - [19/Dec/2024 17:19:25] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:20:38,305 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:20:38,306 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:20:38,306 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\vector_db\\vector_database.py', reloading
+2024-12-19 17:20:39,577 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:21:33,458 - INFO - VectorDatabase initialized.
+2024-12-19 17:21:33,459 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:21:33,459 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:21:33,459 - INFO - Number of embeddings in index: 400
+2024-12-19 17:21:33,478 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 17:21:33,478 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 17:21:33,484 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:21:36,329 - INFO - VectorDatabase initialized.
+2024-12-19 17:21:36,331 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:21:36,331 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:21:36,331 - INFO - Number of embeddings in index: 400
+2024-12-19 17:21:36,341 - WARNING -  * Debugger is active!
+2024-12-19 17:21:36,345 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:21:58,222 - INFO - 127.0.0.1 - - [19/Dec/2024 17:21:58] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:22:00,029 - INFO - VectorDatabase initialized.
+2024-12-19 17:22:00,030 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:22:00,031 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:22:00,031 - INFO - Number of embeddings in index: 400
+2024-12-19 17:22:49,526 - INFO - 127.0.0.1 - - [19/Dec/2024 17:22:49] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:22:56,858 - INFO - 127.0.0.1 - - [19/Dec/2024 17:22:56] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:23:03,790 - INFO - 127.0.0.1 - - [19/Dec/2024 17:23:03] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:23:05,855 - INFO - 127.0.0.1 - - [19/Dec/2024 17:23:05] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:23:54,679 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:23:54,679 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:23:54,680 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:23:55,390 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:23:58,298 - INFO - VectorDatabase initialized.
+2024-12-19 17:23:58,299 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:23:58,299 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:23:58,299 - INFO - Number of embeddings in index: 400
+2024-12-19 17:23:58,308 - WARNING -  * Debugger is active!
+2024-12-19 17:23:58,313 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:24:04,321 - INFO - 127.0.0.1 - - [19/Dec/2024 17:24:04] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:24:11,406 - INFO - 127.0.0.1 - - [19/Dec/2024 17:24:11] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:24:15,859 - INFO - 127.0.0.1 - - [19/Dec/2024 17:24:15] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:24:26,967 - INFO - 127.0.0.1 - - [19/Dec/2024 17:24:26] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:24:50,822 - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\raw_unicode_escape.py', reloading
+2024-12-19 17:24:50,823 - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\unicode_escape.py', reloading
+2024-12-19 17:24:51,061 - INFO -  * Detected change in 'C:\\Python312\\Lib\\curses\\__init__.py', reloading
+2024-12-19 17:24:51,264 - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\utf_16_le.py', reloading
+2024-12-19 17:24:51,268 - INFO -  * Detected change in 'C:\\Python312\\Lib\\webbrowser.py', reloading
+2024-12-19 17:24:51,871 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:24:55,062 - INFO - VectorDatabase initialized.
+2024-12-19 17:24:55,064 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:24:55,064 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:24:55,064 - INFO - Number of embeddings in index: 400
+2024-12-19 17:24:55,073 - WARNING -  * Debugger is active!
+2024-12-19 17:24:55,079 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:24:55,111 - INFO - 127.0.0.1 - - [19/Dec/2024 17:24:55] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:25:00,642 - INFO - 127.0.0.1 - - [19/Dec/2024 17:25:00] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:25:05,525 - INFO - 127.0.0.1 - - [19/Dec/2024 17:25:05] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:25:09,619 - INFO - 127.0.0.1 - - [19/Dec/2024 17:25:09] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:25:11,094 - INFO - VectorDatabase initialized.
+2024-12-19 17:25:11,095 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:25:11,095 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:25:11,096 - INFO - Number of embeddings in index: 400
+2024-12-19 17:25:41,429 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:25:41,430 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:25:41,431 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:25:42,697 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:25:45,564 - INFO - VectorDatabase initialized.
+2024-12-19 17:25:45,566 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:25:45,566 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:25:45,566 - INFO - Number of embeddings in index: 400
+2024-12-19 17:25:45,575 - WARNING -  * Debugger is active!
+2024-12-19 17:25:45,579 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:25:58,149 - INFO - 127.0.0.1 - - [19/Dec/2024 17:25:58] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:26:05,527 - INFO - 127.0.0.1 - - [19/Dec/2024 17:26:05] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:26:10,844 - INFO - 127.0.0.1 - - [19/Dec/2024 17:26:10] "GET /test HTTP/1.1" 200 -
+2024-12-19 17:26:15,102 - INFO - 127.0.0.1 - - [19/Dec/2024 17:26:15] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:26:16,350 - INFO - VectorDatabase initialized.
+2024-12-19 17:26:16,352 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:26:16,352 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:26:16,352 - INFO - Number of embeddings in index: 400
+2024-12-19 17:27:14,299 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:27:14,299 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:27:14,304 - INFO -  * Detected change in 'C:\\ExternalProjects\\image_search_app_chatgpt\\streamlit_app.py', reloading
+2024-12-19 17:27:15,404 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:27:18,487 - INFO - VectorDatabase initialized.
+2024-12-19 17:27:18,488 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:27:18,488 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:27:18,488 - INFO - Number of embeddings in index: 400
+2024-12-19 17:27:18,497 - WARNING -  * Debugger is active!
+2024-12-19 17:27:18,502 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 17:27:36,626 - INFO -  * Detected change in 'C:\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py', reloading
+2024-12-19 17:27:36,629 - INFO -  * Detected change in 'C:\\Python312\\Lib\\multiprocessing\\spawn.py', reloading
+2024-12-19 17:27:38,011 - INFO - 127.0.0.1 - - [19/Dec/2024 17:27:38] "POST /search HTTP/1.1" 200 -
+2024-12-19 17:27:39,356 - INFO - VectorDatabase initialized.
+2024-12-19 17:27:39,357 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:27:39,357 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:27:39,357 - INFO - Number of embeddings in index: 400
+2024-12-19 17:27:41,832 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 17:27:44,825 - INFO - VectorDatabase initialized.
+2024-12-19 17:27:44,826 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 17:27:44,826 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 17:27:44,826 - INFO - Number of embeddings in index: 400
+2024-12-19 17:27:44,836 - WARNING -  * Debugger is active!
+2024-12-19 17:27:44,843 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 18:17:32,553 - INFO - VectorDatabase initialized.
+2024-12-19 18:17:32,553 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 18:17:32,553 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 18:17:32,553 - INFO - Number of embeddings in index: 400
+2024-12-19 18:17:32,571 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.100.102.6:5001
+2024-12-19 18:17:32,571 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-19 18:17:32,578 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-19 18:17:35,348 - INFO - VectorDatabase initialized.
+2024-12-19 18:17:35,350 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 18:17:35,350 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 18:17:35,350 - INFO - Number of embeddings in index: 400
+2024-12-19 18:17:35,362 - WARNING -  * Debugger is active!
+2024-12-19 18:17:35,365 - INFO -  * Debugger PIN: 117-498-547
+2024-12-19 18:17:39,969 - INFO - 127.0.0.1 - - [19/Dec/2024 18:17:39] "POST /search HTTP/1.1" 200 -
+2024-12-19 18:17:41,755 - INFO - VectorDatabase initialized.
+2024-12-19 18:17:41,758 - INFO - FAISS index loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\vector_index.faiss
+2024-12-19 18:17:41,758 - INFO - ID map loaded successfully from: C:\ExternalProjects\image_search_app_chatgpt\vector_db\index\id_map.json
+2024-12-19 18:17:41,758 - INFO - Number of embeddings in index: 400

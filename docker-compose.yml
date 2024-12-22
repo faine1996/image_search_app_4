@@ -1,0 +1,54 @@
+version: "3.8"
+
+services:
+  image_downloader:
+    build:
+      context: ./image_downloader
+    container_name: image_downloader
+    volumes:
+      - ./images:/app/images
+    networks:
+      - app-network
+    depends_on: []
+    healthcheck:
+      test: ["CMD-SHELL", "test -f /app/images/completion_marker || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  vector_db:
+    build:
+      context: ./vector_db
+    container_name: vector_db
+    volumes:
+      - ./images:/app/images
+    networks:
+      - app-network
+    ports:
+      - "5001:5001"
+    depends_on:
+      - image_downloader
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5001/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: frontend
+    volumes:
+      - ./images:/app/images
+    networks:
+      - app-network
+    ports:
+      - "8501:8501"
+    depends_on:
+      - vector_db
+
+volumes:
+  images:
+
+networks:
+  app-network:
