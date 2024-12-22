@@ -51,7 +51,8 @@ To handle millions of images and high traffic, the following architecture enhanc
 ### Running Locally
 The entire application is managed through Docker Compose, so no additional manual steps are required for setup. To start all services, run:
 ```bash
-docker-compose up --build
+docker-compose build
+docker-compose up
 ```
 
 
